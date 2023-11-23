@@ -1,10 +1,12 @@
 <h1 align="center">
   <a name="logo" href="https://spearuav.com/"><img width="500" src="https://spearuav.com/wp-content/uploads/2023/03/SPEAR_logo_new-23-CHOZEN-2048x507.png" alt="SpearUAV"></a>
   <br />
-  <a href="https://spearuav.com/">
-    <img src="https://spearuav.com/wp-content/uploads/2023/10/viper300-72DPI.png" alt="Viper" width=500>
-    <img src="https://spearuav.com/wp-content/uploads/2023/10/viper750-72DPI.png" alt="Viper" width=500>
-  </a>
+  <div style="display: flex; width: 100%;">
+    <a href="https://spearuav.com/">
+      <img src="https://spearuav.com/wp-content/uploads/2023/10/viper300-72DPI.png" alt="Viper">
+      <img src="https://spearuav.com/wp-content/uploads/2023/10/viper750-72DPI.png" alt="Viper">
+    </a>
+  </div>
   <br />
   SpearUAV Software & AI
   <br />
