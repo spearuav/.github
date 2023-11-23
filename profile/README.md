@@ -3,8 +3,8 @@
   <br />
   <div style="display: flex; width: 100%;">
     <a href="https://spearuav.com/">
-      <img src="https://spearuav.com/wp-content/uploads/2023/10/viper300-72DPI.png" alt="Viper">
-      <img src="https://spearuav.com/wp-content/uploads/2023/10/viper750-72DPI.png" alt="Viper">
+      <img src="https://spearuav.com/wp-content/uploads/2023/10/viper300-72DPI.png" alt="Viper" style="width: 40%; height: auto; display: block;">
+      <img src="https://spearuav.com/wp-content/uploads/2023/10/viper750-72DPI.png" alt="Viper" style="width: 40%; height: auto; display: block;">
     </a>
   </div>
   <br />
